@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*PRIMA IMMAGINE*/
+.div1{
+    background-color: rgb(0, 192, 160);
+}
+
+.h1{
+    color: white;
+    text-align: center;
+}
+
+
+/*DIV PORTFOLIO*/
+
+.portfolio{
+    text-align: center;
+    margin-top: 40px;
+}
+
+.casa-legno{
+    width: 350px;
+    border-radius: 3%;
+}
+
+.cake{
+    width: 350px;
+    border-radius: 3%;
+    margin-top: 10px;
+}
+
+/*DIV ABOUT*/
+
+.about{
+    margin-top: 20px;
+    background-color:rgb(0, 192, 160);
+}
+
+
+.testo_lungo{
+    width: 70%;
+    margin: auto;
+}
+
+.testo_about{
+    color: white;
+    text-align: center;
+}
